@@ -90,8 +90,8 @@ function App() {
         <p>{text}</p>
 
         <button onClick={uppercase}>Capitalize</button>
-        <br></br>
-        <br></br>
+        <br />
+        <br />
         <button onClick={toggleSwitch}>{btnText}</button>
       </div>
     </>
